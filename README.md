@@ -32,21 +32,22 @@
 ### 1️⃣ Clone the repository  
 ```sh
 git clone https://github.com/ReverseCoder1/Text-Editor.git
-
+```
 ## 🚀 Getting Started  
 
 ### 2️⃣ Navigate to the Project Directory  
 ```sh
 cd Text-Editor
+```
 
 ### 3️⃣ Compile the Java Files
 ```sh
 javac undo_redo.java FocusSetter.java
-
+```
 ### 4️⃣ Run the Application
 ```sh
 java undo_redo
-
+```
 ## 💡 How It Works  
 - 🔹 **Undo & Redo**: Uses Stacks to store text states  
 - 🔹 **Theming**: Switch between Dark & Light mode  
